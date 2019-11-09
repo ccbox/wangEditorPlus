@@ -1,3 +1,6 @@
+
+> 本来想改进增加调用时自定义配置参数的，但是后来发现调用时直接 ->options([...])即可解决问题，所以晚点再看看是否有必要二次开发。
+
 wangEditor extension for laravel-admin
 ======
 
